@@ -1,6 +1,6 @@
 <?php
 /**
- * Shape Fitness functions and definitions
+ * shape Fitness functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
@@ -19,7 +19,7 @@ function shape_fitness_setup() {
 	/*
 	 * Make theme available for translation.
 	 * Translations can be filed in the /languages/ directory.
-	 * If you're building a theme based on Shape Fitness, use a find and replace
+	 * If you're building a theme based on shape Fitness, use a find and replace
 	 * to change 'shape-fitness' to the name of your theme in all the template files.
 	 */
 	load_theme_textdomain( 'shape-fitness', get_template_directory() . '/languages' );
